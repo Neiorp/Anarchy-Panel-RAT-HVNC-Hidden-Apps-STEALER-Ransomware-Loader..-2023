@@ -1,7 +1,11 @@
 # Anarchy Panel
 ![](https://i.imgur.com/zoOFbNN.jpeg)
-### Video - https://www.youtube.com/watch?v=6jbW7XXqMYk&t
+### Video - https://www.youtube.com/watch?v=yWYANqJn7bM
 
+![](https://i.imgur.com/sCs8FzS.jpeg)
+![](https://i.imgur.com/ZWB5zPR.jpeg)
+![](https://i.imgur.com/DlvZPyT.jpeg)
+![](https://i.imgur.com/7Cp4hob.jpeg)
 ### Features
 
 ~ Ransomware
@@ -14,7 +18,6 @@
 ~ Remote Desktop
 
 ~ Remote HVNC
-
 
 
     Hidden Desktop
@@ -96,6 +99,7 @@
 * ~ Persistence Defeat WD
 * ~ Update all clients
 * ~ Block Task Manager
+* ~ File Grabber 
 * ~ Anti-VM
 * ~ Pumper
 ### If you have any questions, write to these contacts:
